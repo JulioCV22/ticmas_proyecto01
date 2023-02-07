@@ -28,13 +28,16 @@ div{
           border-radius: 100%;
           box-shadow: 3px 3px 3px rgba(21, 21, 22, 0.585);
           left: 35%;
-          top: 620px;
+          top: 680px;
 
      }
 }
 /*etiqueta nombre*/
 
 #nombre{
+     font-family: 'Dancing Script', cursive;
      font-weight: bold;
      margin-top: 30;
 }
+
+
